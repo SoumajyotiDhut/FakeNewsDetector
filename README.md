@@ -61,7 +61,13 @@ data/
 
 ## 🚀 How to Run the Project
 
-### 1. Clone the Repository
+Anyone can run this project locally in just a few steps:
+
+---
+
+### 🧾 1. Clone the Repository
+
+Open terminal or command prompt and run:
 
 ```bash
 git clone https://github.com/SoumajyotiDhut/FakeNewsDetector.git
