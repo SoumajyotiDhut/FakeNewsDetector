@@ -72,15 +72,16 @@ You can easily run this project locally by following these steps:
 
 Open your terminal or command prompt and execute:
 
-```bash
+' ```bash 
 git clone [https://github.com/SoumajyotiDhut/FakeNewsDetector.git](https://github.com/SoumajyotiDhut/FakeNewsDetector.git)
-cd FakeNewsDetector
+cd FakeNewsDetector 
+ ` ``` `
 2. ⚙️ Install Requirements
 Install all necessary Python packages:
 
-Bash
-
+ ' ```bash 
 pip install -r requirements.txt
+ ` ``` `
 3. 📥 Download Dataset from Kaggle
 Download the Fake and Real News Dataset from the link provided above: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
