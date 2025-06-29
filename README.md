@@ -25,7 +25,7 @@ Here are snapshots of the web app interface to give you an idea of its look and 
 
 ### 🏠 Home Page
 
-> Users can enter a news article (title + text) and click **Predict**.
+> Users can enter a news article (title + text) and click **Check news**.
 
 ![Home Page](screenshots/home.png)
 
