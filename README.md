@@ -43,3 +43,15 @@ Here are snapshots of the web app interface to give you an idea of its look and 
 > Make sure your images are inside a folder named `screenshots/` at the root of your project.  
 > If not already created, place your actual screenshot files like this:
 
+## 🙋‍♂️ About the Author
+
+**Soumajyoti Dhut**  
+*| Skilled in Power BI, Python, ML, SQL & Excel*  
+
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
+
