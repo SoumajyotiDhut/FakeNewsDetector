@@ -75,13 +75,13 @@ Open your terminal or command prompt and execute:
 ' ```bash 
 git clone [https://github.com/SoumajyotiDhut/FakeNewsDetector.git](https://github.com/SoumajyotiDhut/FakeNewsDetector.git)
 cd FakeNewsDetector 
- ` ``` `
-2. ⚙️ Install Requirements
+ ` ``` 
+### 2. ⚙️ Install Requirements
 Install all necessary Python packages:
 
  ' ```bash 
 pip install -r requirements.txt
- ` ``` `
+ ` ``` 
 3. 📥 Download Dataset from Kaggle
 Download the Fake and Real News Dataset from the link provided above: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
