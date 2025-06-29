@@ -1,0 +1,29 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.container {
+    width: 600px;
+    margin: 80px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+button {
+    background: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover {
+    background: #0056b3;
+}
