@@ -39,10 +39,6 @@ Here are snapshots of the web app interface to give you an idea of its look and 
 
 ---
 
-> 📌 **Note:**  
-> Make sure your images are inside a folder named `screenshots/` at the root of your project.  
-> If not already created, place your actual screenshot files like this:
-
 ## 🙋‍♂️ About the Author
 
 **Soumajyoti Dhut**  
