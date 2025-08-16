@@ -41,7 +41,7 @@ Here are snapshots of the web app interface to give you an idea of its look and 
 
 ## 🙋‍♂️ About the Author
 
-**Soumajyoti Dhut**  
+**Soumajyoti**  
 *| Skilled in Power BI, Python, ML, SQL & Excel*  
 
 
